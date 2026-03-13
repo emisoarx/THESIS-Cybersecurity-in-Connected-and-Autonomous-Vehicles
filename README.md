@@ -1,5 +1,3 @@
-# THESIS-Cybersecurity-in-Connected-and-Autonomous-Vehicles
-
 # 🛡️ TCC: Cibersegurança em Veículos Conectados e Autônomos
 
 > **Status:** 🚧 Em desenvolvimento (Entrega prevista: Março/2026)
@@ -40,4 +38,3 @@ O foco principal é analisar como veículos modernos (V2X) podem se proteger con
 
 ## 🛠️ Tecnologias Utilizadas
 ![Cybersecurity](
-EM BREVE
