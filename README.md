@@ -37,4 +37,12 @@ O foco principal é analisar como veículos modernos (V2X) podem se proteger con
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-![Cybersecurity](
+![Cybersecurity](https://img.shields.io/badge/Security-Shield-red?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+---
+<div align="center">
+  <img src="https://img.shields.io/badge/Aguarde-Conteúdo_em_Breve-yellow?style=for-the-badge" alt="Coming Soon"/>
+</div>
