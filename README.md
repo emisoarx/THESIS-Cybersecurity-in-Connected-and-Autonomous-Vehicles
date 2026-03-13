@@ -1,3 +1,5 @@
+SOON - EM BREVE
+
 # 🛡️ TCC: Cibersegurança em Veículos Conectados e Autônomos
 
 > **Status:** 🚧 Em desenvolvimento (Entrega prevista: Março/2026)
